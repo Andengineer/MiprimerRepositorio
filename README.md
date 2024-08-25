@@ -1,2 +1,2 @@
 Readme
-Escrito por Dev1
+Escritó por Dev1
